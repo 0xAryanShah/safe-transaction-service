@@ -6,6 +6,8 @@
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/safeglobal/safe-transaction-service?label=Docker&sort=semver)](https://hub.docker.com/r/safeglobal/safe-transaction-service)
 
 # Safe Transaction Service
+
+Version Using in CANTO Safe:- v4.20.0
 Keeps track of transactions sent via Safe contracts. It uses events and
 [tracing](https://openethereum.github.io/JSONRPC-trace-module) to index the txs.
 
